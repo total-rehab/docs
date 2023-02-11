@@ -6,6 +6,24 @@ various entities, such as [programs](./programs.md), [guides](./guides.md) and
 
 ![Media library](../static/img/media-library.png)
 
+## Selecting media
+
+To select an image or video that has already been uploaded click on the item,
+then click the **Select** button.
+
+## Uploading media
+
+To upload a new image or video click the **Upload media** tab and select your
+file. If uploading an image you will be given the opportunity to crop it before
+hitting the **Save** button.
+
+## Editing media details
+
+If you want to edit the title of the image you can do so via the **Media Library**
+section in the sidebar. This title currently serves as the
+(accessibilityLabel)[https://developer.apple.com/documentation/objectivec/nsobject/1615181-accessibilitylabel]
+within the app, so should describe the image in at least a somewhat meaningful way.
+
 ## Optimisation
 
 Images are cropped and compressed in the browser, before being uploaded to
