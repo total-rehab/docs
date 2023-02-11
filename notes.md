@@ -1,0 +1,1 @@
+- Deleting users is done via Supabase (right to be forgotten etc.).
