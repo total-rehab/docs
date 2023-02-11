@@ -7,9 +7,17 @@ before being granted access.
 
 Each user is given a role, which primarily are used to control what that user
 is allowed to do in the admin interface (or directly via the API). There are
-three pre-defined roles.
+three pre-defined roles:
 
 - **Admin:** allowed to create or modify anything within the admin interface.
 - **Practitioner:** allowed to invite users and assign programs, but not allowed to
 create or modify anything else within the admin interface.
 - **Users:** not allowed to login to the admin interface at all.
+
+## Technical details
+
+Authentication for the admin interface and mobile app is handled using
+[Supabase Auth](https://supabase.com/docs/guides/auth/overview), with the API
+requiring an access token for any `POST`, `PUT` or `DELETE` routes. Access
+tokens are validated using the JWT secret provided by Supabase. For more details
+see the [Total Rehab API repository](https://github.com/total-rehab/api)
