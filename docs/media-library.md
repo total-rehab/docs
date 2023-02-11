@@ -1,7 +1,7 @@
 # Media Library
 
 The media library lets you manage your images and videos and attach them to
-various entities, such as [programs](./programs.md), [guides](./guides.md) and
+various posts, such as [programs](./programs.md), [guides](./guides.md) and
 [activities](./activities).
 
 ![Media library](../static/img/media-library.png)
@@ -23,6 +23,12 @@ If you want to edit the title of the image you can do so via the **Media Library
 section in the sidebar. This title currently serves as the
 [accessibilityLabel](https://developer.apple.com/documentation/objectivec/nsobject/1615181-accessibilitylabel)
 within the app, so should describe the image in at least a somewhat meaningful way.
+
+## Deleting media
+
+To delete an image or video either visit the **Media Library** section in the
+sidebar, click through to the item, then click the **Delete** button. Alternatively,
+you can delete items via the modal when creating or editing a post.
 
 ## Optimisation
 
