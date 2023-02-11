@@ -4,7 +4,7 @@ name: Deploy
 
 on:
   push:
-    branches: [main]
+    branches: main
 
 permissions:
   contents: read
@@ -16,7 +16,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  runs-on: ubuntu-latest
   deploy:
     environment:
       name: github-pages
