@@ -21,7 +21,7 @@ hitting the **Save** button.
 
 If you want to edit the title of the image you can do so via the **Media Library**
 section in the sidebar. This title currently serves as the
-(accessibilityLabel)[https://developer.apple.com/documentation/objectivec/nsobject/1615181-accessibilitylabel]
+[accessibilityLabel](https://developer.apple.com/documentation/objectivec/nsobject/1615181-accessibilitylabel)
 within the app, so should describe the image in at least a somewhat meaningful way.
 
 ## Optimisation
