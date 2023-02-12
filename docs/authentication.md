@@ -20,4 +20,4 @@ Authentication for the admin interface and mobile app is handled using
 [Supabase Auth](https://supabase.com/docs/guides/auth/overview), with the API
 requiring an access token for any `POST`, `PUT` or `DELETE` routes. Access
 tokens are validated using the JWT secret provided by Supabase. For more details
-see the [Total Rehab API repository](https://github.com/total-rehab/api)
+see the [Total Rehab API repository](https://github.com/total-rehab/api).
