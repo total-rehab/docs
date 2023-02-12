@@ -49,13 +49,7 @@ such such a service.
 
 ### Videos
 
-Videos are converted to the [`.M38U`](https://en.wikipedia.org/wiki/M3U) file
-format, which enables HTTP Live Streaming. Effectively this means we do not need
+Videos are compressed and converted to the [`.M38U`](https://en.wikipedia.org/wiki/M3U) file
+format, which enables HTTP Live Streaming on Android. Effectively this means we do not need
 to wait to download the entire video file to the phone before we begin playing
 it.
-
-:::note
-Because this conversion relies on some relatively recent technologies it will
-only work when uploading videos via a modern browser (any highlighted in green
-in [this list](https://caniuse.com/sharedarraybuffer) should be fine).
-:::
