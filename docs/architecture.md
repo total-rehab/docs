@@ -26,9 +26,11 @@ using the [oac](https://github.com/jambff/oac) package.
 
 [View on GitHub](https://github.com/total-rehab/app)
 
-## Admin
+## Website
 
-The admin interface is built using [React](https://reactjs.org/) and
+The website comprises pages available to the public and an admin interface, which
+is available to admin users. The website is built using [React](https://reactjs.org/)
+and [Next.js](https://nextjs.org/), with the admin interface making use of
 [React Admin](https://marmelab.com/react-admin/).
 
-[View on GitHub](https://github.com/total-rehab/admin)
+[View on GitHub](https://github.com/total-rehab/website)
