@@ -1,10 +1,9 @@
 # Phases
 
-Phases are used to group a week or more of [tasks](./tasks.md).
-
-The names of phases will be presented to the user as they progress through their
-program. It is also possible to create [guides](./guides.md) and attach these to
-specific phases.
+Phases are used to group a week or more of [tasks](./tasks.md). The names of
+phases will be presented to the user as they progress through their program. To
+the user with more information about a phase we can create a [guide](./guides.md)
+and attach that to a specific phase.
 
 ## Creating phases
 
