@@ -3,7 +3,12 @@
 Both the mobile app and the admin interface require a user to be authenticated
 before being granted access.
 
-## Roles
+## Creating users
+
+To create a user select **Users** from the sidebar, click **Create**, fill
+in the form and hit **Save**.
+
+### Roles
 
 Each user is given a role, which primarily are used to control what that user
 is allowed to do in the admin interface (or directly via the API). There are
