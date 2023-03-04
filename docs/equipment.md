@@ -6,8 +6,8 @@ progress through their program.
 
 ## Creating phases
 
-To create a phase select **Phases** from the sidebar, fill in the form and hit
-**Save**.
+To create equipment select **Phases** from the sidebar, click **Create**, fill
+in the form and hit **Save**.
 
 :::note
 Do not use "None" or "Non-required" etc. as the name of an item of equipment.

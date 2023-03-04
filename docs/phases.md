@@ -7,5 +7,5 @@ and attach that to a specific phase.
 
 ## Creating phases
 
-To create a phase select **Phases** from the sidebar, fill in the form and hit
-**Save**.
+To create a phase select **Phases** from the sidebar, click **Create**, fill
+in the form and hit **Save**.
