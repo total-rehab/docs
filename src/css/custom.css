@@ -17,3 +17,7 @@
   --ifm-color-primary-lighter: #01c8a7;
   --ifm-color-primary-lightest: #01e2bd;
 }
+
+img {
+  border: 1px solid #dcdcdc;
+}

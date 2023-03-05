@@ -5,6 +5,8 @@ information to the user as they work through their program. Each guide can be
 attached to one or more [programs](./programs.md), [phases](./phases.md), or
 some combination of the two.
 
+![Create guide](../static/img/create-guide.png)
+
 ## Creating guides
 
 To create a guide select **Guides** from the sidebar, click **Create**, fill

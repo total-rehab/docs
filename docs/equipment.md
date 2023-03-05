@@ -1,8 +1,9 @@
 # Equipment
 
-Each [activity](./activities.md) may require one or more items of equipment.
-The equipment required for each activity will be presented users as they
-progress through their programs.
+Any equipment required for each [activity](./activities.md) will be presented
+users as they progress through their programs.
+
+![Create equipment](../static/img/create-equipment.png)
 
 ## Creating equipment
 

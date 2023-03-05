@@ -2,6 +2,8 @@
 
 A program is ultimately built up from tasks, which are organised by week and day.
 
+![Create task](../static/img/create-task.png)
+
 ## Creating tasks
 
 To create a task select **Tasks** from the sidebar, click **Create**, fill

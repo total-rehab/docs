@@ -5,6 +5,8 @@ phases will be presented to users as they progress through their programs. To
 provide users with more information about a phase we can create a
 [guide](./guides.md) and attach that to the phase.
 
+![Create phase](../static/img/create-phase.png)
+
 ## Creating phases
 
 To create a phase select **Phases** from the sidebar, click **Create**, fill
