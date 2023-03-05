@@ -10,7 +10,7 @@ some combination of the two.
 To create a guide select **Guides** from the sidebar, click **Create**, fill
 in the form and hit **Save**.
 
-## Example
+### Programs and phases
 
 Let's say you wanted to write a guide about the P.R.I.C.E protocol and attach it
 to the "Swelling and Support" phase of all programs. In this case you would
