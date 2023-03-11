@@ -53,3 +53,8 @@ Videos are compressed and converted to the [`.M38U`](https://en.wikipedia.org/wi
 format, which enables HTTP Live Streaming on Android. Effectively this means we do not need
 to wait to download the entire video file to the phone before we begin playing
 it.
+
+:::note
+The video optimisation runs nightly as a scheduled process. Any new videos
+you upload will still work but might be a little slow until this process runs.
+:::
