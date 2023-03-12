@@ -9,6 +9,9 @@ A program is ultimately built up from tasks, which are organised by week and day
 To create a task select **Tasks** from the sidebar, click **Create**, fill
 in the form and hit **Save**.
 
+Alternatively, you can click the **Bulk Create** button, which takes you to a
+page where you can more easily insert multiple tasks for a program.
+
 ### Weeks and days
 
 Tasks are organised by week and day, where "Day 1" is based on when the user
