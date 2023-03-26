@@ -6,5 +6,5 @@ Blog posts are presented on the public-facing website.
 
 ## Creating blog posts
 
-To create blog posts select **Blog Posts  ** from the sidebar, click **Create**, fill
+To create blog posts select **Blog Posts** from the sidebar, click **Create**, fill
 in the form and hit **Save**.

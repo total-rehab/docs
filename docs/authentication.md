@@ -8,7 +8,7 @@ before being granted access.
 To create a user select **Users** from the sidebar, click **Create**, fill
 in the form and hit **Save**.
 
-### Roles
+## Roles
 
 Each user is given a role, which primarily are used to control what that user
 is allowed to do in the admin interface (or directly via the API). There are
@@ -18,6 +18,11 @@ three pre-defined roles:
 - **Practitioner:** allowed to invite users and assign programs, but not allowed to
 create or modify anything else within the admin interface.
 - **Users:** not allowed to login to the admin interface at all.
+
+## Granting access
+
+To grant a user a particular level of access select **Users** in the sidebar,
+find the user by email address, select the role and hit **Save**.
 
 ## Technical details
 
