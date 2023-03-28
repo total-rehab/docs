@@ -12,7 +12,7 @@ in the form and hit **Save**.
 Alternatively, you can click the **Bulk Create** button, which takes you to a
 page where you can more easily insert multiple tasks for a program.
 
-### Weeks and days
+## Weeks and days
 
 Tasks are organised by week and day, where "Day 1" is based on when the user
 started a program, rather than a specific day of the week.
@@ -24,3 +24,10 @@ could be that they are still on "Week 1" several weeks into their program.
 Effectively, a user will progress to the next day only after they have completed
 one or more tasks for the previous day.
 :::
+
+## Priority
+
+Tasks can be sorted in the app according to the number entered in the "Priority"
+field. Numbers are sorted in descending order, so a task with a priority of 2
+will be placed above one with a priority of 1 (all tasks have a priority of 1
+by default).
