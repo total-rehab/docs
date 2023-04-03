@@ -4,6 +4,10 @@ There are two main ways that users can gain full access to the app. Either they
 sign up themselves via the app stores, or they are given an access code, likely
 purchased for them by a practitioner.
 
+The diagram below presents a high-level view of the architecture.
+
+![Payments architecture](../static/img/payments-architecture.png)
+
 ## Mobile subscriptions
 
 Mobile app subscriptions are handled via [RevenueCat](https://www.revenuecat.com/).
