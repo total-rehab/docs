@@ -17,3 +17,7 @@ app.
 
 The body of the schedule reminder message that users can configure to be shown
 at a particular time each day.
+
+## Terms and Conditions
+
+The terms and conditions are displayed on the website and in the app.
